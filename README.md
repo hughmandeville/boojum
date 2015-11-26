@@ -1,5 +1,5 @@
 # boojum
-Source code for the Boojum Audio website [boojum.org](http://boojum.org).
+Source code for the Boojum Audio website [theboojum.org](http://theboojum.org).
 
 Files and Directories
 =====================
