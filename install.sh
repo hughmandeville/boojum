@@ -6,4 +6,5 @@ scp style.css escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/
 #scp images/logo_starshipsofa_330x150.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
 #scp images/logo_tales_to_terrify_330x150.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
 #scp images/logo_far-fetched_fables_330x150.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
+#scp images/favicon.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
 
