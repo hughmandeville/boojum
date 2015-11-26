@@ -1,10 +1,9 @@
-scp code.js escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/
-scp index.html escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/
-scp style.css escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/
-#scp images/bg_seth_2000x2667.jpg escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
-#scp images/bg_seth_100x100.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
-#scp images/logo_starshipsofa_330x150.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
-#scp images/logo_tales_to_terrify_330x150.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
-#scp images/logo_far-fetched_fables_330x150.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
-#scp images/favicon.png escalona@medianoche.us:/home/escalona/medianoche.us/hugh/boojum/images/
+# ssh mouse2277@theboojum.org -p 2222
+
+#scp -P 2222 .htaccess mouse2277@theboojum.org:/home1/mouse2277/public_html/
+scp -P 2222 code.js mouse2277@theboojum.org:/home1/mouse2277/public_html/
+scp -P 2222 index.html mouse2277@theboojum.org:/home1/mouse2277/public_html/
+#scp -P 2222 missing.html mouse2277@theboojum.org:/home1/mouse2277/public_html/
+scp -P 2222 style.css mouse2277@theboojum.org:/home1/mouse2277/public_html/
+#scp -P 2222 images/favicon.png mouse2277@theboojum.org:/home1/mouse2277/public_html/
 
