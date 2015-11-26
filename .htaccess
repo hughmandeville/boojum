@@ -1,0 +1,11 @@
+RewriteEngine on
+RewriteBase /
+
+Options +FollowSymLinks +Indexes
+
+ErrorDocument 404 /missing.html
+
+RedirectMatch 301 ^/2015/11/16/who-is-the-voice-of-boojum/$                http://theboojum.org/index.html
+RedirectMatch 301 ^/about/$                                                http://theboojum.org/index.html
+RedirectMatch 301 ^/connect-to-the-boojum/$                                http://theboojum.org/index.html
+RedirectMatch 301 ^/i-would-love-to-tell-your-story/some-audition-clips/$  http://theboojum.org/index.html
