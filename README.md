@@ -8,7 +8,7 @@ Files and Directories
     .htaccess                    - Web server configuration (rewrite rules, ...).
     code.js                      - Site JavaScript file. 
     images/                      - Directory with images.
-        favicon_32x32.png        - Site icon for bookmarks and tabs.
+        favicon.png              - Site icon for bookmarks and tabs.
     index.html                   - Home page.
     install.sh                   - Script to install files on the web server.
     README.md                    - This file.
