@@ -24,6 +24,7 @@ Links
   - [Google Analytics](http://www.google.com/analytics/)
   - [Google Structured Data](http://www.google.com/webmasters/tools/richsnippets)
   - [Google Web Master Tools](https://www.google.com/webmasters/tools/home)
+  - [HTML Validator](https://validator.w3.org/)
   - [Open Graph Object Debugger](https://developers.facebook.com/tools/debug/og/object/)
   - [Pinterest Validator](http://developers.pinterest.com/rich_pins/validator/)
   - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
