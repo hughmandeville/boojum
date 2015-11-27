@@ -11,6 +11,7 @@ Files and Directories
         favicon.png              - Site icon for bookmarks and tabs.
     index.html                   - Home page.
     install.sh                   - Script to install files on the web server.
+    missing.html                 - 404 page not found page.
     README.md                    - This file.
     robots.txt                   - Contains info for web crawlers.
     sitemap.xml                  - List of pages on the site.
