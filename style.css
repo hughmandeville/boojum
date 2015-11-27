@@ -88,6 +88,11 @@ h1 {
    background: #ffffff;
 }
 
+.no_highlight {
+ color: inherit;
+ text-decoration: none;
+}
+
 #soundcloud_player_iframe {
    width: 100%;
    height: 380px;
@@ -126,6 +131,15 @@ h1 {
 .site_title a {
    color: #000000;
    text-decoration: none;
+}
+
+#footer {
+   color: #aaa;
+   font-size: 11px;
+   text-align: center;
+   margin: 20px auto;
+   font-family: "nyt-franklin", georgia, "times new roman", times, serif;
+   weight: 200;
 }
 
 
