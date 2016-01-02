@@ -20,6 +20,7 @@ Files and Directories
 
 Links
 =====
+  - [CSS Validator](https://jigsaw.w3.org/css-validator/)
   - [Facebook Debugger](https://developers.facebook.com/tools/debug)
   - [Google Analytics](http://www.google.com/analytics/)
   - [Google Structured Data](http://www.google.com/webmasters/tools/richsnippets)
